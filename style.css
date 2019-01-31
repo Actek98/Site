@@ -1,0 +1,11 @@
+body {
+    font: 14px 'Verdana';
+    margin: 0;
+    padding: 0;
+}
+
+header {
+	background-color: red;
+    top: 35px;
+}
+
